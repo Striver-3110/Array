@@ -68,8 +68,7 @@ int main()
         
         for(int i = 0;i<res.size();i++)
             cout<<res[i]<<" ";
-        cout<<endl;
-        
+        cout<<endl;   
     }
 	return 0;
 }
