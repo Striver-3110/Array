@@ -101,9 +101,7 @@ int main() {
 		}
 		bool f=0;
 		Solution ob;
-		
 		int A = ob. peakElement(tmp,n);
-		
 		if(A<0 and A>=n)
 		    cout<<0<<endl;
 		else
@@ -120,9 +118,7 @@ int main() {
     		    f=0;
     		cout<<f<<endl;
 		}
-		
 	}
-
 	return 0;
 }
 // } Driver Code Ends
