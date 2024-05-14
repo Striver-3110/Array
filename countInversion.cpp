@@ -57,13 +57,13 @@ int main() {
     int n;
     cout << "Enter the size of the array: ";
     cin >> n;
-
+s
     long long *arr = new long long[n];
     cout << "Enter the elements of the array:" << endl;
     for (int i = 0; i < n; i++) {
         cin >> arr[i];
     }
-    
+
 
     long long inversions = getInversions(arr, n);
 
