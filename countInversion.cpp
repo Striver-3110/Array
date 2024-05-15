@@ -63,6 +63,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         cin >> arr[i];
     }
+    
 
     long long inversions = getInversions(arr, n);
 
