@@ -69,7 +69,6 @@ class Solution {
     }
 };
 
-//{ Driver Code Starts.
 
 int main() {
     int t;
@@ -97,5 +96,3 @@ int main() {
         cout << res << endl;
     }
 }
-
-// } Driver Code Ends
